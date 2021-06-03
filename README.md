@@ -14,10 +14,10 @@ These directions work for:
 
 1. Click "Select a token" on the swap page
 2. At the bottom of the token select pop up, click "Manage"
-3. Enter the URI `ipfs://QmTtwuF6c7PadDSt5Pq2ewhhDu6yPF41o1parRMjpqCMjL` into the input box
+3. Enter the URI `tokenlist.pooltogether.eth` into the input box
 4. Click "Import" on the prompt that appears
 5. Done!
 
 # Deployment Details
 
-The [Token List IPFS URI](ipfs://QmTtwuF6c7PadDSt5Pq2ewhhDu6yPF41o1parRMjpqCMjL) is: [ipfs://QmTtwuF6c7PadDSt5Pq2ewhhDu6yPF41o1parRMjpqCMjL](ipfs://QmTtwuF6c7PadDSt5Pq2ewhhDu6yPF41o1parRMjpqCMjL)
+The [Token List IPFS URI](ipfs://QmaYuZWi55ZsmiCshcnUrKEsg2DJ68G8MDbuhFFJrehBM7) is: [ipfs://QmaYuZWi55ZsmiCshcnUrKEsg2DJ68G8MDbuhFFJrehBM7](ipfs://QmaYuZWi55ZsmiCshcnUrKEsg2DJ68G8MDbuhFFJrehBM7)
