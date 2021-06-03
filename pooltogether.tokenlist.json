@@ -1,6 +1,6 @@
 {
   "name": "PoolTogether",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "logoURI": "ipfs://QmPqZ8pVyBCdw2N365t47yJ6n6beZ5X2ZxE5d1zMo4Gh2U",
   "keywords": [
     "audited",
     "verified"
@@ -157,6 +157,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
