@@ -125,7 +125,7 @@
       "address": "0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58",
       "symbol": "pUSDC",
       "name": "Pod USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "ipfs://QmVURT9wiCvrLDBuBk14pppfL6Ti7hk2rVKah9DWwASjqm",
       "tags": [
         "pod"
@@ -147,7 +147,7 @@
       "address": "0x96d161cbf38FACCeD333851A9cEf20936DDA88F4",
       "symbol": "pUSDC",
       "name": "Pod USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "ipfs://QmVURT9wiCvrLDBuBk14pppfL6Ti7hk2rVKah9DWwASjqm",
       "tags": [
         "pod"
@@ -157,6 +157,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
