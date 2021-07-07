@@ -152,11 +152,22 @@
       "tags": [
         "pod"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfdc192c153044dedb67c5a17b8651951cf70ee4a",
+      "symbol": "PTSUSHI",
+      "name": "PT xSushi Ticket",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+      "tags": [
+        "ticket"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
