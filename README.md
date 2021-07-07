@@ -1,5 +1,7 @@
 # PoolTogether Token List
 
+![Schema Validates](https://github.com/pooltogether/pooltogether/token-list/actions/workflows/validate.yml/badge.svg)
+
 This is the official PoolTogether Token List.  It adheres to Uniswap's [token list schema](https://uniswap.org/blog/token-lists/).
 
 All of these files have been uploaded to IPFS.
