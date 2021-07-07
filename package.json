@@ -1,0 +1,17 @@
+{
+  "name": "pooltogether-token-list",
+  "version": "1.0.2",
+  "description": "PoolTogether Token List",
+  "main": "index.js",
+  "repository": "git@github.com:pooltogether/token-list.git",
+  "author": "Brendan Asselstine <brendan@pooltogether.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.24",
+    "ajv": "^6.12.2",
+    "chalk": "^4.1.1"
+  },
+  "scripts": {
+    "validate": "yarn exec ./scripts/validate.js"
+  }
+}
